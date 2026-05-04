@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm Thomas Maksym Shapoval,
 
 A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
